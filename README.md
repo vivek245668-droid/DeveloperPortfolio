@@ -117,7 +117,7 @@ Screenshots and project demonstrations are organized in the `Screenshots/` direc
 
 - **GitHub:** [viviek245668](https://github.com/vivek245668-droid)
 - **LinkedIn:** [viviek](https://www.linkedin.com/in/vivek-kumar-06a808430/)
-- **Portfolio:** [DeveloperPortfolioFinal](https://viviek245668.github.io/DeveloperPortfolioFinal/)
+- **Portfolio:** [DeveloperPortfolioFinal](https://viviek245668.github.io/DeveloperPortfolio/)
 
 ---
 
