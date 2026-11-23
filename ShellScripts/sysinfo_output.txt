@@ -1,8 +1,8 @@
 ========================================
        SYSTEM INFORMATION REPORT
 ========================================
-Name: Vikansh Chaudhary
-Roll Number: 2601730036
+Name: Vivek
+Roll Number: 2601010243
 Date: Thu Nov 19 10:28:42 PST 2026
 
 ---------- CPU INFORMATION ----------
