@@ -1,15 +1,15 @@
 ===== HOME DIRECTORY: ls -la ~ =====
 total 36
-drwxr-x--- 5 VIKANSH VIKANSH 4096 Nov 19 10:08 .
+drwxr-x--- 5 vivek245668 4096 Nov 19 10:08 .
 drwxr-xr-x 3 root    root    4096 Nov 19 10:06 ..
--rw------- 1 VIKANSH VIKANSH   80 Nov 19 10:12 .bash_history
--rw-r--r-- 1 VIKANSH VIKANSH  220 Nov 19 10:06 .bash_logout
--rw-r--r-- 1 VIKANSH VIKANSH 3771 Nov 19 10:06 .bashrc
-drwxr-x--- 4 VIKANSH VIKANSH 4096 Nov 19 10:08 .cache
-drwxr-x--- 3 VIKANSH VIKANSH 4096 Nov 19 10:08 .config
-drwxr-xr-x 2 VIKANSH VIKANSH 4096 Nov 19 10:08 .landscape
--rw-r--r-- 1 VIKANSH VIKANSH    0 Nov 19 10:08 .motd_shown
--rw-r--r-- 1 VIKANSH VIKANSH  807 Nov 19 10:06 .profile
+-rw------- 1 vivek245668   80 Nov 19 10:12 .bash_history
+-rw-r--r-- 1 vivek245668 220 Nov 19 10:06 .bash_logout
+-rw-r--r-- 1 vivek245668 3771 Nov 19 10:06 .bashrc
+drwxr-x--- 4 vivek245668 4096 Nov 19 10:08 .cache
+drwxr-x--- 3 vivek245668 4096 Nov 19 10:08 .config
+drwxr-xr-x 2 vivek245668 4096 Nov 19 10:08 .landscape
+-rw-r--r-- 1 vivek245668    0 Nov 19 10:08 .motd_shown
+-rw-r--r-- 1 vivek245668  807 Nov 19 10:06 .profile
 
 ===== RUNNING PROCESSES: ps aux | head -10 =====
 USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
