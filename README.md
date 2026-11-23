@@ -32,7 +32,7 @@ The project demonstrates my hands-on experience with development tools, automati
 
 **Visit my website:**
 
-[https://ralcoralson.github.io/DeveloperPortfolioFinal/](https://vivek245668-droid.github.io/DeveloperPortfolioFinal/)
+[https://ralcoralson.github.io/DeveloperPortfolioFinal/](https://vivek245668-droid.github.io/DeveloperPortfolio/)
 ## 📄 My Resume
 
 [Download My Resume (PDF)](Portfolio/Resume.pdf)
