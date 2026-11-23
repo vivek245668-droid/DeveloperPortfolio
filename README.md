@@ -11,8 +11,11 @@
 ## 👨‍💻 About Me
 
 **Name:** viviek
+
 **Roll Number:** 2601010243
-**Course:** B.Tech Computer Science Engineering  
+
+**Course:** B.Tech Computer Science Engineering 
+
 **University:** K.R. Mangalam University
 
 I am a Computer Science Engineering student interested in software development, Artificial Intelligence, automation, and emerging technologies. I enjoy building practical projects and exploring new tools to improve my technical skills.
