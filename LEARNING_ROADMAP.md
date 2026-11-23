@@ -4,7 +4,7 @@
 
 
 
-\*\*Student:\*\* Vikansh Chaudhary  
+\*\*Student:\*\* vivek
 
 \*\*Programme:\*\* B.Tech CSE (Artificial Intelligence \& Machine Learning)  
 
@@ -331,50 +331,6 @@
 \- Mock technical interviews.
 
 \- Apply for AI/ML Engineer, Junior Machine Learning Engineer and Data Analyst opportunities.
-
-
-
-\---
-
-
-
-\## 3. Personal Project of Interest
-
-
-
-\### Mochi — Interactive Mini Robot
-
-
-
-Develop an expressive, interactive robot using an ESP32-C3.
-
-
-
-\*\*Planned features:\*\*
-
-\- OLED display with animated facial expressions.
-
-\- Small moving hands.
-
-\- Touch-based interactions.
-
-\- Sound and expression synchronisation.
-
-\- Future scope for AI-based interaction.
-
-
-
-\*\*Learning outcomes:\*\*
-
-\- Embedded programming
-
-\- Electronics and hardware integration
-
-\- Python and AI concepts
-
-\- Human-computer interaction
-
-\- System design and prototyping
 
 
 
