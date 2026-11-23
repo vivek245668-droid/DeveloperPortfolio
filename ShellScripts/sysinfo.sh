@@ -1,14 +1,14 @@
 
 #!/usr/bin/env bash
-# Author: Vikansh Chaudhary
-# Roll Number: 2601730036
+# Author: vivek
+# Roll Number: 2601010243
 # Purpose: Display system information report
 
 echo "========================================"
 echo "       SYSTEM INFORMATION REPORT"
 echo "========================================"
-echo "Name: Vikansh Chaudhary"
-echo "Roll Number: 2601730036"
+echo "Name: Vivek"
+echo "Roll Number:2601010243"
 echo "Date: $(date)"
 echo
 
