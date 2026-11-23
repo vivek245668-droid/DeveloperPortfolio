@@ -2,7 +2,7 @@
 
 
 
-\*\*Name:\*\* Vikansh Chaudhary  
+\*\*Name:\*\* vivek 
 
 \*\*Course:\*\* B.Tech CSE (AI \& ML)  
 
@@ -16,9 +16,9 @@
 
 
 
-\- \*\*GitHub:\*\* https://github.com/vikansh448
+\- \*\*GitHub:\*\* https://github.com/vivek245668-droid
 
-\- \*\*LinkedIn:\*\* https://www.linkedin.com/in/vikansh-chaudhary-b3b783431/
+\- \*\*LinkedIn:\*\* https://www.linkedin.com/in/vivek-kumar-06a808430/
 
 \- \*\*HackerRank:\*\* \[Add your HackerRank profile URL]
 
@@ -47,11 +47,7 @@
 | Python Basic Certificate | Earned |
 
 
-
-\*\*Certificate:\*\* `HackerRank\_Python\_Basic\_Certificate.pdf`
-
-
-
+\
 \## 3. LeetCode Progress
 
 
