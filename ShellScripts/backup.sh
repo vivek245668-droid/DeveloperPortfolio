@@ -1,7 +1,7 @@
 
 #!/usr/bin/env bash
-# Author: Vikansh Chaudhary
-# Roll Number: 2601730036
+# Author: vivek
+# Roll Number:2601010243
 # Purpose: Create a compressed backup of a folder
 
 set -euo pipefail
